@@ -1,0 +1,10 @@
+{
+  "block_sha256": "0b7680e4a819c3a13cb4ece696093b81f762fbcd4cd01e80f541fa9a9e3c0091",
+  "files": {
+    "instructions/documentation.md": "08adb1284ef9eceb21f4afb89545af35e785cd7a672571683a951db861d7b337"
+  },
+  "schema_version": 1,
+  "source_repository": "studio-artifakt/knowledge",
+  "source_sha256": "b3a5ad8a20e5cdea8d06902926fd25ece335cf5bbb5b206554005b4ea434ebe2",
+  "target_id": "toolkits"
+}
